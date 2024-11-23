@@ -1,0 +1,67 @@
+{
+  "book": {
+    "addToCategory": "Add to category",
+    "read": "Read",
+    "noPreview": "No preview available for this book.",
+     "added": "Added"
+  },
+  "modal": {
+    "favorites": "Favorites",
+    "reading": "Reading",
+    "planned": "Planned",
+    "dropped": "Dropped",
+    "addButton": "Add"
+  },
+  "categories": {
+    "all": "All",
+    "recent": "Recent",
+    "recommended": "Recommended",
+    "popular": "Popular",
+    "topRated": "Top Rated"
+  },
+  "profile": {
+    "welcome": "Welcome",
+    "all": "All",
+    "favorites": "Favorites",
+    "reading": "Reading",
+    "planned": "Planned",
+    "dropped": "Dropped",
+    "unknown": "Unknown",
+    "noImage": "No Image",
+    "noBooks": "No books available",
+    "selectLanguage": "Select Language",
+    "changeLanguage": "Change Language",
+    "close": "Close",
+    "logout": "Logout",
+    "remove": "Delete"
+  },
+  "search": {
+    "title": "Title",
+    "genre": "Genre",
+    "author": "Author",
+    "searchButton": "Search",
+    "noResults": "No results found."
+  },
+  "errors": {
+    "network": "Network error",
+    "server": "Server error",
+    "notFound": "Not found"
+  },
+  "buttons": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit"
+  },
+  "messages": {
+    "loading": "Loading...",
+    "noData": "No data available",
+    "errorOccurred": "An error occurred",
+    "success": "Operation successful"
+  },
+  "home": {
+    "title": "Welcome to the Book App",
+    "description": "Find your next great read",
+    "searchPlaceholder": "Search for books, authors, genres..."
+  }
+}

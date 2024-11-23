@@ -1,0 +1,68 @@
+{
+    "book": {
+      "addToCategory": "Санатқа қосу",
+      "read": "Оқу",
+      "noPreview": "Бұл кітап үшін алдын ала қарау қолжетімді емес.",
+      "added": "Қосылды"
+    },
+    "modal": {
+      "favorites": "Избранное",
+      "reading": "Оқуда",
+      "planned": "Жоспарда",
+      "dropped": "Бас тартылды",
+      "addButton": "Қосу"
+    },
+    "categories": {
+      "all": "Барлығы",
+      "recent": "Жақында",
+      "recommended": "Ұсынылған",
+      "popular": "Популярлы",
+      "topRated": "Жоғары бағаланған"
+    },
+    "profile": {
+      "welcome": "Қош келдіңіз",
+      "all": "Барлығы",
+      "favorites": "Избранное",
+      "reading": "Оқуда",
+      "planned": "Жоспарда",
+      "dropped": "Бас тартылды",
+      "unknown": "Белгісіз",
+      "noImage": "Сурет жоқ",
+      "noBooks": "Кітаптар жоқ",
+      "selectLanguage": "Тілді таңдау",
+      "changeLanguage": "Тілді өзгерту",
+      "close": "Жабу",
+      "logout": "Шығу",
+      "remove": "Жою"
+    },
+    "search": {
+      "title": "Атауы",
+      "genre": "Жанр",
+      "author": "Автор",
+      "searchButton": "Іздеу",
+      "noResults": "Нәтижелер табылмады."
+    },
+    "errors": {
+      "network": "Желі қатесі",
+      "server": "Сервер қатесі",
+      "notFound": "Табылмады"
+    },
+    "buttons": {
+      "save": "Сақтау",
+      "cancel": "Бас тарту",
+      "delete": "Жою",
+      "edit": "Өңдеу"
+    },
+    "messages": {
+      "loading": "Жүктелуде...",
+      "noData": "Деректер жоқ",
+      "errorOccurred": "Қате орын алды",
+      "success": "Операция сәтті аяқталды"
+    },
+    "home": {
+      "title": "Кітап қолданбасына қош келдіңіз",
+      "description": "Келесі тамаша оқуды табыңыз",
+      "searchPlaceholder": "Кітаптар, авторлар, жанрлар іздеңіз..."
+    }
+  }
+  

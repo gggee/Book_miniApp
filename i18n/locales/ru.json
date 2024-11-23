@@ -1,0 +1,67 @@
+{
+  "book": {
+    "addToCategory": "Добавить в категорию",
+    "read": "Читать",
+    "noPreview": "Предпросмотр для этой книги нет.",
+    "added": "Добавлен"
+  },
+  "modal": {
+    "favorites": "Любимое",
+    "reading": "Читаю",
+    "planned": "В планах",
+    "dropped": "Брошено",
+    "addButton": "Добавить"
+  },
+  "categories": {
+    "all": "Все",
+    "recent": "Недавние",
+    "recommended": "Рекомендуемые",
+    "popular": "Популярные",
+    "topRated": "Лучшие"
+  },
+  "profile": {
+    "welcome": "Добро пожаловать",
+    "all": "Все",
+    "favorites": "Избранное",
+    "reading": "Читаю",
+    "planned": "Запланировано",
+    "dropped": "Брошено",
+    "unknown": "Неизвестно",
+    "noImage": "Нет изображения",
+    "noBooks": "Нет доступных книг",
+    "selectLanguage": "Выберите язык",
+    "changeLanguage": "Изменить язык",
+    "close": "Закрыть",
+    "logout": "Выйти",
+    "remove": "Удалить"
+  },
+  "errors": {
+    "network": "Ошибка сети",
+    "server": "Ошибка сервера",
+    "notFound": "Не найдено"
+  },
+  "buttons": {
+    "save": "Сохранить",
+    "cancel": "Отмена",
+    "delete": "Удалить",
+    "edit": "Редактировать"
+  },
+  "messages": {
+    "loading": "Загрузка...",
+    "noData": "Нет данных",
+    "errorOccurred": "Произошла ошибка",
+    "success": "Операция выполнена успешно"
+  },
+  "home": {
+    "title": "Добро пожаловать в Книжное Приложение",
+    "description": "Найдите свою следующую замечательную книгу",
+    "searchPlaceholder": "Ищите книги, авторов, жанры..."
+  },
+  "search": {
+    "title": "Название",
+    "genre": "Жанр",
+    "author": "Автор",
+    "searchButton": "Поиск",
+    "noResults": "Результаты не найдены."
+  }
+}
