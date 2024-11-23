@@ -1,2 +1,2 @@
 ## Home screen
-![HomeScreen](assets/img/home_page.jpg)
+<img src="assets/img/home_page.jpg" alt="HomeScreen" width="500">
